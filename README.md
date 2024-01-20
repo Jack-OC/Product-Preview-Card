@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Jack-OC/Product-Preview-Card)
+- Live Site URL: [Live Site URL](https://jack-oc.github.io/Product-Preview-Card/)
 
 ## My process
 
